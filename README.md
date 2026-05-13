@@ -1,2 +1,2 @@
-# colab.google.
+# colab.google
 colab sshx_auto
